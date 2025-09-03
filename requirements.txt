@@ -1,0 +1,10 @@
+openpyxl
+pandas
+scikit-learn
+skforecast
+statsmodels
+xgboost
+prophet
+seaborn
+matplotlib
+lightgbm
